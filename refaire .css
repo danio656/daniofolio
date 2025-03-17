@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+}
+nav {
+    text-align: justify;
+}
+.premier {
+    text-align:left;
+}
+.deuxième {
+    text-align: right;
+ 
+}
+.description {
+   white-space: 0%; 
+}
+.description h2 {
+    color: #06b94a;
+}
+.description {
+    position:relative;
+    padding: 0px;
+    text-align: left;
+}
+.description p {
+}
+.image {
+    position: right;
+    text-align: right;
+
+}
+.reste {
+    border-radius: 10px;
+    border: #06b94a;
+
+}
+.reste a button{
+    color:rgb(248, 249, 250);
+    background-color: #06b94a;
+}
